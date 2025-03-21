@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - opciones
+  - Collider2D
+  - Suelo
+  - Enemigo
+  - item
+  - CrewMember
+  - Businessman
+  - Building
+  - Apple
+  - Rum
+  - Coin
+  - Floor
+  - Teleporter
+  - Stair
+  - cicloDiaNoche
+  - Wall
+  - Sword
+  - Trap
+  - SwordJack
+  - SwordJack2
+  - HostButton
+  - ClientButton
+  - IPinput
+  - QuitButton
+  - Chest
+  - BreakableBox
+  - VerticalStair
+  - Ladder
+  - FloorDetector
+  - NpcTeleport
+  - Sign
+  - dialogueImage
+  - NpcDices
+  - Barbossa_Human_Light
+  - Barbossa
+  - ActivateNpcTp
+  - BalaPistola
+  - Light_Barbossa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Fondo3
+  - MiniMapIcons
+  - Particles
+  - SunMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ParallaxBackground
+    uniqueID: 2984196469
+    locked: 0
+  - name: Sun
+    uniqueID: 3497345607
+    locked: 0
+  - name: Parallax1
+    uniqueID: 2978200659
+    locked: 0
+  - name: Fondo_Celda_3
+    uniqueID: 3317201429
+    locked: 0
+  - name: Fondo2
+    uniqueID: 2915525669
+    locked: 0
+  - name: Fondo1
+    uniqueID: 3656788599
+    locked: 0
+  - name: Suelo
+    uniqueID: 2188845473
+    locked: 0
+  - name: Fondo+1
+    uniqueID: 2520756067
+    locked: 0
+  - name: Delante
+    uniqueID: 637205943
+    locked: 0

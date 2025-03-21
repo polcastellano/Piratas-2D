@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 07870dddae41890448d3eb476f0d3539
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "EXTERIOR\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 4
+      width: 66
+      height: 33
+    spriteID: a95add3b914908944b495e7c0f65633d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 4}
+    spritePosition: {x: 61, y: 196}
+  - name: "Capa 54\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 265
+      width: 14
+      height: 12
+    spriteID: df695068d334e2348a3e8b44259bd971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 265}
+    spritePosition: {x: 111, y: 204}
+  - name: "Capa 53\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 320
+      width: 34
+      height: 14
+    spriteID: 53e6626e41e952442b38d30eb2c353a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 320}
+    spritePosition: {x: 77, y: 212}
+  - name: "Capa 52\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 415
+      width: 14
+      height: 7
+    spriteID: 3aa8130cdec79ba49a169f5d0c15afbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 415}
+    spritePosition: {x: 61, y: 216}
+  - name: OREJA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 147
+      width: 9
+      height: 13
+    spriteID: a0d5a61c31d9a404cb71a5771de1c171
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 147}
+    spritePosition: {x: 101, y: 193}
+  - name: CEJAS
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 368
+      width: 20
+      height: 5
+    spriteID: 725be38d69dbfb34185c09bb5a88f42c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 368}
+    spritePosition: {x: 77, y: 204}
+  - name: "NARIZ\_+\_BOCA\_+\_<Trazado>\_+\_<Trazado>"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 342
+      width: 16
+      height: 26
+    spriteID: 820822a8e8a9f5149b54a1468f39cc75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 342}
+    spritePosition: {x: 76, y: 183}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 459
+      width: 7
+      height: 6
+    spriteID: c57f64d5a032cc64fa2f27c70572a9b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 459}
+    spritePosition: {x: 86, y: 202}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 473
+      width: 7
+      height: 6
+    spriteID: 96aa43681dd594440a0a0e3e9cdc8e6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 473}
+    spritePosition: {x: 77, y: 201}
+  - name: "CARA\_+\_<Trazado>\_+\_PELO"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 61
+      width: 51
+      height: 53
+    spriteID: 68e5474062121c1448604e4141a84f71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 61}
+    spritePosition: {x: 74, y: 160}
+  - name: "DECORACION HOMBRO AMARILLA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 497
+      width: 26
+      height: 8
+    spriteID: bfbcab44c45ac5a418b0e5869f8de73f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 497}
+    spritePosition: {x: 111, y: 174}
+  - name: "TELA ANTEBRAZO\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 286
+      width: 31
+      height: 26
+    spriteID: ce74a8aa3186001488a9ca05ac5b9104
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 286}
+    spritePosition: {x: 145, y: 166}
+  - name: ANTEBRAZO DERECHO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 461
+      width: 35
+      height: 27
+    spriteID: f34ec9cef147a1d45a5aa58e7e825d1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 461}
+    spritePosition: {x: 165, y: 157}
+  - name: CODO DERECHO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 496
+      width: 17
+      height: 9
+    spriteID: f83901868a2e38646976fea6a2eed9bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 496}
+    spritePosition: {x: 147, y: 183}
+  - name: "Capa 8\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 122
+      width: 10
+      height: 17
+    spriteID: caf270932ebc9a3458a2406f38738af8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 122}
+    spritePosition: {x: 167, y: 167}
+  - name: "Capa 1\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 397
+      width: 14
+      height: 10
+    spriteID: 876a26f365aa95845bb3bcb7b4f2ca1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 397}
+    spritePosition: {x: 151, y: 183}
+  - name: "Capa 14\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 430
+      width: 11
+      height: 6
+    spriteID: 017df7ad232b0e340ad065bd4922f484
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 430}
+    spritePosition: {x: 183, y: 150}
+  - name: "DECORACION ESPADA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 228
+      width: 25
+      height: 52
+    spriteID: 4f5bf5279681a9846862439dd5028973
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 228}
+    spritePosition: {x: 162, y: 96}
+  - name: "FILO\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 4
+      width: 45
+      height: 72
+    spriteID: 7b5ecf16eca508745a3e202ff2b3edf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 4}
+    spritePosition: {x: 148, y: 84}
+  - name: "MANGO ESPADA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 195
+      width: 13
+      height: 28
+    spriteID: 04c7593c5dc85ce4ab977effe1fc073e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 195}
+    spritePosition: {x: 184, y: 152}
+  - name: "Capa 15\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 239
+      width: 10
+      height: 18
+    spriteID: 113eed6434c0f4246a43ff4750afb875
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 239}
+    spritePosition: {x: 190, y: 154}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 487
+      width: 5
+      height: 8
+    spriteID: 0ed9933ef33e38a489240a693af2ee3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 487}
+    spritePosition: {x: 184, y: 158}
+  - name: "BICEPS\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 424
+      width: 35
+      height: 29
+    spriteID: 9ac66201af7b3d04faccb705fe2abaad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 424}
+    spritePosition: {x: 120, y: 162}
+  - name: "Capa 16 copia 2\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 503
+      width: 4
+      height: 4
+    spriteID: be6708f9f206662488a4e6851c7753b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 503}
+    spritePosition: {x: 110, y: 117}
+  - name: "Capa 16 copia\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 168
+      width: 4
+      height: 5
+    spriteID: 451109cb75e2f9a49ac3c778bc2ed750
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 168}
+    spritePosition: {x: 108, y: 136}
+  - name: "Capa 16\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 503
+      width: 4
+      height: 4
+    spriteID: 83d5015b1e57a684983e9e802bf2770e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 503}
+    spritePosition: {x: 108, y: 156}
+  - name: "sombra chaqueta derecha\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 391
+      width: 21
+      height: 98
+    spriteID: e167c9da3338f8048aac56b1369a0c08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 391}
+    spritePosition: {x: 118, y: 77}
+  - name: "CHAQUETA DERECHA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 34
+      height: 102
+    spriteID: 6a96ad191286c374b9ccb0b7599a09da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 105, y: 77}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 195
+      width: 24
+      height: 36
+    spriteID: d4b36a7dea54290439eff43084b05f21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 195}
+    spritePosition: {x: 120, y: 31}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 122
+      width: 40
+      height: 51
+    spriteID: a81c5c4f675c74049a798c8f65674730
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 122}
+    spritePosition: {x: 102, y: 20}
+  - name: PIE DERECHO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 336
+      width: 29
+      height: 40
+    spriteID: 2e2ddee430234b44686cd9e5ff97f135
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 336}
+    spritePosition: {x: 118, y: 0}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 218
+      width: 31
+      height: 70
+    spriteID: eed5873308946274bb691ad60a279cb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 218}
+    spritePosition: {x: 102, y: 48}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 333
+      width: 15
+      height: 45
+    spriteID: 5cc51c9b4e535f44bb7c1d99c76bcb31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 333}
+    spritePosition: {x: 120, y: 59}
+  - name: "sombra\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 228
+      width: 15
+      height: 97
+    spriteID: c7706ab3cb5ef3a48b2cd8b6c5f53b78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 228}
+    spritePosition: {x: 81, y: 74}
+  - name: CAMISA CENTRAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 296
+      width: 24
+      height: 87
+    spriteID: 328d6526b7538724ab1c9a091f788a89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 296}
+    spritePosition: {x: 90, y: 87}
+  - name: CUELLO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 342
+      width: 20
+      height: 18
+    spriteID: 3c84287015f225b41910556dd1da9958
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 342}
+    spritePosition: {x: 91, y: 168}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 384
+      width: 34
+      height: 32
+    spriteID: 99e9131d673e51144b6083d10a4e0eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 384}
+    spritePosition: {x: 54, y: 29}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 376
+      width: 16
+      height: 13
+    spriteID: a048c22dfd3e06344b436ff5d92465c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 376}
+    spritePosition: {x: 67, y: 28}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 181
+      width: 40
+      height: 39
+    spriteID: 17b1440bb9628984ba73e86440d165e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 181}
+    spritePosition: {x: 48, y: 2}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 487
+      width: 3
+      height: 4
+    spriteID: 0e58278114436df41b9646c085abfc8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 487}
+    spritePosition: {x: 55, y: 39}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 181
+      width: 7
+      height: 28
+    spriteID: 5d6880acfceb0c74e8b47d14fe00a6e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 181}
+    spritePosition: {x: 71, y: 44}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 239
+      width: 22
+      height: 39
+    spriteID: 2f090d7fe69a9f74c957d784e61b06cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 239}
+    spritePosition: {x: 54, y: 39}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 459
+      width: 1
+      height: 1
+    spriteID: cef4f10881b333f49a8ddf37db3226ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 459}
+    spritePosition: {x: 54, y: 72}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 4
+      width: 58
+      height: 49
+    spriteID: 5d6b844f13f406648b1d7efa044878e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 4}
+    spritePosition: {x: 54, y: 58}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 125
+      width: 37
+      height: 27
+    spriteID: 251d8fa810e33324296b3545ae18612f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 125}
+    spritePosition: {x: 71, y: 64}
+  - name: "TELA INTERIOR CHAQUETA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 31
+      height: 96
+    spriteID: da988c5da2cd7494cb48a30ef8d7d6a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+    spritePosition: {x: 85, y: 79}
+  - name: DEDOS MANO IZQUIERDA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 444
+      width: 8
+      height: 7
+    spriteID: d47573b06e6256e40b555ed372098748
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 444}
+    spritePosition: {x: 20, y: 125}
+  - name: BICEPS IZQUIERDO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 288
+      width: 31
+      height: 40
+    spriteID: 1b05aad3924e5d7489ff2e4ce8eb215e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 288}
+    spritePosition: {x: 65, y: 126}
+  - name: "<Trazado>\_+\_sombra tela rota mu\xF1eca\_Imagen\_+\_TELA MU\xD1ECA\_Imagen"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 160
+      width: 36
+      height: 27
+    spriteID: 5f887f5eeb892124091c2354120e8f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 160}
+    spritePosition: {x: 13, y: 107}
+  - name: <Grupo>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 84
+      width: 37
+      height: 33
+    spriteID: f5a9418e1d032f547b3abb79b7efd9c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 84}
+    spritePosition: {x: 39, y: 107}
+  - name: <Trazado>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 496
+      width: 10
+      height: 9
+    spriteID: ef9af1ad20f346748b7a94b2534a3409
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 496}
+    spritePosition: {x: 43, y: 124}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: SOMBRERO
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 182b3adb2c568bf4c9074f8db3ddd015
+    layerID: 90
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "EXTERIOR\_Imagen"
+    spriteName: "EXTERIOR\_Imagen"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a95add3b914908944b495e7c0f65633d
+    layerID: 89
+    mosaicPosition: {x: 165, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 54\_Imagen"
+    spriteName: "Capa 54\_Imagen"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: df695068d334e2348a3e8b44259bd971
+    layerID: 88
+    mosaicPosition: {x: 76, y: 265}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 53\_Imagen"
+    spriteName: "Capa 53\_Imagen"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 53e6626e41e952442b38d30eb2c353a9
+    layerID: 87
+    mosaicPosition: {x: 46, y: 320}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 52\_Imagen"
+    spriteName: "Capa 52\_Imagen"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3aa8130cdec79ba49a169f5d0c15afbe
+    layerID: 86
+    mosaicPosition: {x: 46, y: 415}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CABEZA
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00c4ed96f98f7be4ea9e962c775a497c
+    layerID: 84
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: OREJA
+    spriteName: OREJA
+    isGroup: 0
+    parentIndex: 5
+    spriteID: a0d5a61c31d9a404cb71a5771de1c171
+    layerID: 83
+    mosaicPosition: {x: 147, y: 147}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CEJAS
+    spriteName: CEJAS
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 725be38d69dbfb34185c09bb5a88f42c
+    layerID: 82
+    mosaicPosition: {x: 70, y: 368}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "NARIZ\_+\_BOCA\_+\_<Trazado>\_+\_<Trazado>"
+    spriteName: "NARIZ\_+\_BOCA\_+\_<Trazado>\_+\_<Trazado>"
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 820822a8e8a9f5149b54a1468f39cc75
+    layerID: 81
+    mosaicPosition: {x: 46, y: 342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: OJOS
+    spriteName: 
+    isGroup: 1
+    parentIndex: 5
+    spriteID: fc230a43210260c4d8ff4aad29b38d50
+    layerID: 79
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 9
+    spriteID: c57f64d5a032cc64fa2f27c70572a9b8
+    layerID: 78
+    mosaicPosition: {x: 46, y: 459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 96aa43681dd594440a0a0e3e9cdc8e6c
+    layerID: 77
+    mosaicPosition: {x: 46, y: 473}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "CARA\_+\_<Trazado>\_+\_PELO"
+    spriteName: "CARA\_+\_<Trazado>\_+\_PELO"
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 68e5474062121c1448604e4141a84f71
+    layerID: 76
+    mosaicPosition: {x: 99, y: 61}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "DECORACION HOMBRO AMARILLA\_Imagen"
+    spriteName: "DECORACION HOMBRO AMARILLA\_Imagen"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bfbcab44c45ac5a418b0e5869f8de73f
+    layerID: 75
+    mosaicPosition: {x: 4, y: 497}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BRAZO DERECHO
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e090526fe3de903429babbf1ab1a3876
+    layerID: 73
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ANTEBRAZO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 14
+    spriteID: cf79bcefb5674a444a3200a62329c4ec
+    layerID: 71
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "TELA ANTEBRAZO\_Imagen"
+    spriteName: "TELA ANTEBRAZO\_Imagen"
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ce74a8aa3186001488a9ca05ac5b9104
+    layerID: 70
+    mosaicPosition: {x: 46, y: 286}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ANTEBRAZO DERECHO
+    spriteName: ANTEBRAZO DERECHO
+    isGroup: 0
+    parentIndex: 15
+    spriteID: f34ec9cef147a1d45a5aa58e7e825d1f
+    layerID: 69
+    mosaicPosition: {x: 122, y: 461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CODO DERECHO
+    spriteName: CODO DERECHO
+    isGroup: 0
+    parentIndex: 15
+    spriteID: f83901868a2e38646976fea6a2eed9bc
+    layerID: 68
+    mosaicPosition: {x: 122, y: 496}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: TELA INTERIOR
+    spriteName: 
+    isGroup: 1
+    parentIndex: 15
+    spriteID: 8439d041f699ee4469bca9506f6bae7e
+    layerID: 66
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Capa 8\_Imagen"
+    spriteName: "Capa 8\_Imagen"
+    isGroup: 0
+    parentIndex: 19
+    spriteID: caf270932ebc9a3458a2406f38738af8
+    layerID: 65
+    mosaicPosition: {x: 147, y: 122}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 1\_Imagen"
+    spriteName: "Capa 1\_Imagen"
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 876a26f365aa95845bb3bcb7b4f2ca1b
+    layerID: 64
+    mosaicPosition: {x: 46, y: 397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ESPADA
+    spriteName: 
+    isGroup: 1
+    parentIndex: 14
+    spriteID: 362b5c65f0e62264b8e85290fca98b97
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Capa 14\_Imagen"
+    spriteName: "Capa 14\_Imagen"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 017df7ad232b0e340ad065bd4922f484
+    layerID: 61
+    mosaicPosition: {x: 46, y: 430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "DECORACION ESPADA\_Imagen"
+    spriteName: "DECORACION ESPADA\_Imagen"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 4f5bf5279681a9846862439dd5028973
+    layerID: 60
+    mosaicPosition: {x: 122, y: 228}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "FILO\_Imagen"
+    spriteName: "FILO\_Imagen"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7b5ecf16eca508745a3e202ff2b3edf8
+    layerID: 59
+    mosaicPosition: {x: 46, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "MANGO ESPADA\_Imagen"
+    spriteName: "MANGO ESPADA\_Imagen"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 04c7593c5dc85ce4ab977effe1fc073e
+    layerID: 58
+    mosaicPosition: {x: 78, y: 195}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 15\_Imagen"
+    spriteName: "Capa 15\_Imagen"
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 113eed6434c0f4246a43ff4750afb875
+    layerID: 57
+    mosaicPosition: {x: 76, y: 239}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 0ed9933ef33e38a489240a693af2ee3a
+    layerID: 56
+    mosaicPosition: {x: 46, y: 487}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "BICEPS\_Imagen"
+    spriteName: "BICEPS\_Imagen"
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 9ac66201af7b3d04faccb705fe2abaad
+    layerID: 55
+    mosaicPosition: {x: 122, y: 424}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CHAQUETA DERECHA
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cfde20543f39e0c45ab5f124c443d5eb
+    layerID: 53
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: BOTONES
+    spriteName: 
+    isGroup: 1
+    parentIndex: 30
+    spriteID: e5d855e372f650146a9c505eb56302d6
+    layerID: 51
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Capa 16 copia 2\_Imagen"
+    spriteName: "Capa 16 copia 2\_Imagen"
+    isGroup: 0
+    parentIndex: 31
+    spriteID: be6708f9f206662488a4e6851c7753b2
+    layerID: 50
+    mosaicPosition: {x: 46, y: 503}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 16 copia\_Imagen"
+    spriteName: "Capa 16 copia\_Imagen"
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 451109cb75e2f9a49ac3c778bc2ed750
+    layerID: 49
+    mosaicPosition: {x: 147, y: 168}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Capa 16\_Imagen"
+    spriteName: "Capa 16\_Imagen"
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 83d5015b1e57a684983e9e802bf2770e
+    layerID: 48
+    mosaicPosition: {x: 58, y: 503}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "sombra chaqueta derecha\_Imagen"
+    spriteName: "sombra chaqueta derecha\_Imagen"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e167c9da3338f8048aac56b1369a0c08
+    layerID: 47
+    mosaicPosition: {x: 4, y: 391}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "CHAQUETA DERECHA\_Imagen"
+    spriteName: "CHAQUETA DERECHA\_Imagen"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 6a96ad191286c374b9ccb0b7599a09da
+    layerID: 46
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PIERNA IZQUIERDA
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 91da4f1c8f1aee24ebd18253242e6d35
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GEMELO DERECHO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 37
+    spriteID: b400214ebd3c7f94fa8f9f8f0aaba67d
+    layerID: 42
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 38
+    spriteID: d4b36a7dea54290439eff43084b05f21
+    layerID: 41
+    mosaicPosition: {x: 46, y: 195}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 38
+    spriteID: a81c5c4f675c74049a798c8f65674730
+    layerID: 40
+    mosaicPosition: {x: 99, y: 122}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PIE DERECHO
+    spriteName: PIE DERECHO
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 2e2ddee430234b44686cd9e5ff97f135
+    layerID: 39
+    mosaicPosition: {x: 122, y: 336}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: FEMUR DERECHO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 37
+    spriteID: b3732c741301fa940b0d908297db92ea
+    layerID: 37
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 42
+    spriteID: eed5873308946274bb691ad60a279cb3
+    layerID: 36
+    mosaicPosition: {x: 4, y: 218}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 5cc51c9b4e535f44bb7c1d99c76bcb31
+    layerID: 35
+    mosaicPosition: {x: 99, y: 333}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BRAZO IZQUIERDO
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 120f791354a2f6a49a8f3daca814b984
+    layerID: 33
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ANTEBRAZO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 45
+    spriteID: 44bb7c20c1526f14e8faf24d4d0548f8
+    layerID: 31
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sombra\_Imagen"
+    spriteName: "sombra\_Imagen"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: c7706ab3cb5ef3a48b2cd8b6c5f53b78
+    layerID: 30
+    mosaicPosition: {x: 99, y: 228}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CAMISA CENTRAL
+    spriteName: CAMISA CENTRAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 328d6526b7538724ab1c9a091f788a89
+    layerID: 29
+    mosaicPosition: {x: 4, y: 296}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CUELLO
+    spriteName: CUELLO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3c84287015f225b41910556dd1da9958
+    layerID: 28
+    mosaicPosition: {x: 70, y: 342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PIERNA IZQUIERDA
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 21e22b70bf181384d88c2d4d19e41aa4
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: BOTA
+    spriteName: 
+    isGroup: 1
+    parentIndex: 50
+    spriteID: 8f9a7a321ed3d4d49baf403f7103ec89
+    layerID: 24
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 51
+    spriteID: 99e9131d673e51144b6083d10a4e0eb7
+    layerID: 23
+    mosaicPosition: {x: 122, y: 384}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 51
+    spriteID: a048c22dfd3e06344b436ff5d92465c5
+    layerID: 22
+    mosaicPosition: {x: 46, y: 376}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 51
+    spriteID: 17b1440bb9628984ba73e86440d165e2
+    layerID: 21
+    mosaicPosition: {x: 99, y: 181}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 51
+    spriteID: 0e58278114436df41b9646c085abfc8e
+    layerID: 20
+    mosaicPosition: {x: 59, y: 487}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GEMELO IZQUIERDO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 50
+    spriteID: f8f1d0073777ff24d907b397c17c2a78
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 5d6880acfceb0c74e8b47d14fe00a6e2
+    layerID: 17
+    mosaicPosition: {x: 147, y: 181}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 2f090d7fe69a9f74c957d784e61b06cc
+    layerID: 16
+    mosaicPosition: {x: 46, y: 239}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 50
+    spriteID: cef4f10881b333f49a8ddf37db3226ba
+    layerID: 15
+    mosaicPosition: {x: 61, y: 459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: FEMUR IZQUIERDO
+    spriteName: 
+    isGroup: 1
+    parentIndex: 50
+    spriteID: 448827ff9f065604989cd59eecea66f2
+    layerID: 13
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 5d6b844f13f406648b1d7efa044878e5
+    layerID: 12
+    mosaicPosition: {x: 99, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 60
+    spriteID: 251d8fa810e33324296b3545ae18612f
+    layerID: 11
+    mosaicPosition: {x: 46, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "TELA INTERIOR CHAQUETA\_Imagen"
+    spriteName: "TELA INTERIOR CHAQUETA\_Imagen"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: da988c5da2cd7494cb48a30ef8d7d6a5
+    layerID: 10
+    mosaicPosition: {x: 4, y: 114}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: DEDOS MANO IZQUIERDA
+    spriteName: DEDOS MANO IZQUIERDA
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d47573b06e6256e40b555ed372098748
+    layerID: 9
+    mosaicPosition: {x: 46, y: 444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BICEPS IZQUIERDO
+    spriteName: BICEPS IZQUIERDO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1b05aad3924e5d7489ff2e4ce8eb215e
+    layerID: 8
+    mosaicPosition: {x: 122, y: 288}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ANTEBRAZO IZQUIERDO
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8d6e7b3e9975efb4d97dc45c23b0c7ca
+    layerID: 6
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "<Trazado>\_+\_sombra tela rota mu\xF1eca\_Imagen\_+\_TELA MU\xD1ECA\_Imagen"
+    spriteName: "<Trazado>\_+\_sombra tela rota mu\xF1eca\_Imagen\_+\_TELA MU\xD1ECA\_Imagen"
+    isGroup: 0
+    parentIndex: 66
+    spriteID: 5f887f5eeb892124091c2354120e8f43
+    layerID: 5
+    mosaicPosition: {x: 46, y: 160}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Grupo>
+    spriteName: <Grupo>
+    isGroup: 0
+    parentIndex: 66
+    spriteID: f5a9418e1d032f547b3abb79b7efd9c5
+    layerID: 4
+    mosaicPosition: {x: 46, y: 84}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Trazado>
+    spriteName: <Trazado>
+    isGroup: 0
+    parentIndex: 66
+    spriteID: ef9af1ad20f346748b7a94b2534a3409
+    layerID: 3
+    mosaicPosition: {x: 147, y: 496}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "FONDO NEGRO\_Imagen"
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3d98caa20367c22419c0ee5571ea5cea
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

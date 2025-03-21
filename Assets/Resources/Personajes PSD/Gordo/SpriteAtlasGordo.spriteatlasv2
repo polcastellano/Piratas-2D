@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 2
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    packables:
+    - {fileID: -8207920603766767688, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 1778846267817626076, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 8299352332575513627, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 1939255224368372460, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 76152343348289561, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -1417663573650218839, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 3997352331321553239, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -8648042442989958201, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 7309865782961731745, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: 1518265316298471176, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -2915704328736560363, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -6281689075444588770, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -8328923581568760697, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -340851617772749144, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -969245414484898762, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+    - {fileID: -884231051858259663, guid: fb73c05a2c50a5b429d54df202d3a5b0, type: 3}
+  m_IsVariant: 0
